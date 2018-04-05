@@ -31,4 +31,5 @@ can enter/edit/view deployed equipment.
 dependencies:
 python
 python-yaml
+python2-cherrypy
 
