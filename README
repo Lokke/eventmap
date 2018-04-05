@@ -27,3 +27,8 @@ about the available layers.
 
 Run the run_map.py script. It will run a webservice with a map where you
 can enter/edit/view deployed equipment.
+
+dependencies:
+python
+python-yaml
+
